@@ -269,7 +269,7 @@
     "DFFlagRbxLogCatchExceptions": true,
     "FFlagRbxLogRefactor": true,
     "FFlagMacInstallerDeleteNetworkCacheOnDiskSpaceError2": true,
-    "DFFlagTeleportReconnect": true,
+    "DFFlagTeleportReconnect": false,
     "FFlagReconnectToSameServer": false,
     "DFFlagPlaceLauncherHttpResponseTelemetry": false,
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": true,
@@ -288,8 +288,8 @@
     "ShowInstallSuccessPrompt": true,
     "FFlagAXUnifiedItemFooterPriceFix": true,
     "FFlagWinInstallerDoNotKillRunningClient": true,
-    "FStringFlagRepoGitHashFastString": "0a8e96f2213340dc45debced5b79be8881f54aa7",
-    "DFStringFlagRepoGitHashDynamicString": "0a8e96f2213340dc45debced5b79be8881f54aa7",
-    "FStringFlipTimeStampFastString": "2025-09-03T17:08:52.173Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-03T17:08:52.173Z"
+    "FStringFlagRepoGitHashFastString": "c9d42dd52f4db6b4ed12972aefd46a937150eb64",
+    "DFStringFlagRepoGitHashDynamicString": "c9d42dd52f4db6b4ed12972aefd46a937150eb64",
+    "FStringFlipTimeStampFastString": "2025-09-04T07:24:03.212Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-04T07:24:03.212Z"
 }
