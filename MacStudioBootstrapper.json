@@ -250,7 +250,7 @@
     "FFlagAXCatalogItemCardSelectedOverlayButtonLogging": true,
     "FFlagEnableCEVLogsToEventIngest": true,
     "DFIntCevVoiceLifecycleEventsThrottleHundrethsPercent": 10000,
-    "FFlagWinInstallerUseBITS2": true,
+    "FFlagWinInstallerUseBITS2": false,
     "FFlagCoreScriptsMigrateFromLegacyCSVLoc4": true,
     "FFlagUnivAppSkipLoadCoreScriptLoc2": true,
     "DFFlagRbxLogCatchExceptions": true,
@@ -276,8 +276,8 @@
     "InfluxInstallHundredthsPercentage": 1,
     "ShowInstallSuccessPrompt": false,
     "FFlagNotificationPersonAddIcons": true,
-    "FStringFlagRepoGitHashFastString": "ad33e487b93d24c7f80aaf922866418cfc58a49e",
-    "DFStringFlagRepoGitHashDynamicString": "ad33e487b93d24c7f80aaf922866418cfc58a49e",
-    "FStringFlipTimeStampFastString": "2025-09-16T19:58:25.783Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-16T19:58:25.783Z"
+    "FStringFlagRepoGitHashFastString": "b080d64538c5adbf42e3fd049fad526701ff7bfb",
+    "DFStringFlagRepoGitHashDynamicString": "b080d64538c5adbf42e3fd049fad526701ff7bfb",
+    "FStringFlipTimeStampFastString": "2025-09-20T02:58:57.656Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-20T02:58:57.656Z"
 }
